@@ -12,3 +12,21 @@ Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of 
 Refer to [README](docs/source/index.rst) for this sample project documentation. 
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
+
+# Cloning and Setup
+Use the below commands to clone and setup
+```
+git clone https://github.com/Pavan2280/pes_binary_to_gray_tapeout.git
+mkdir ~/asic
+export OPENLANE_ROOT=~/asic/openlane
+export PDK_ROOT=~/asic/pdk
+cd pes_binary_to_gray_tapeout/
+make setup
+
+ls $PDK_ROOT
+ls $OPENLANE_ROOT
+ls openlane/
+make user_proj_example
+ls gds/
+klayout gds/user_proj_example.gds
+```
