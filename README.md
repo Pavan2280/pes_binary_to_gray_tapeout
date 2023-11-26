@@ -41,5 +41,5 @@ klayout gds/user_proj_example.gds
 ![WhatsApp Image 2023-11-24 at 21 02 01_e714d53d](https://github.com/Pavan2280/pes_binary_to_gray_tapeout/assets/131603225/c06d68a9-881b-461c-ac1f-3384ba55daff)
 
 # MPW Precheck
-![WhatsApp Image 2023-11-24 at 20 59 05_42d473f8](https://github.com/Pavan2280/pes_binary_to_gray_tapeout/assets/131603225/3a61c240-cc9f-46b5-ab59-1e4966210bb7)
-![WhatsApp Image 2023-11-24 at 20 59 05_fc01cc36](https://github.com/Pavan2280/pes_binary_to_gray_tapeout/assets/131603225/dcbb3e66-e8b8-475d-b9da-9909bba06181)
+![WhatsApp Image 2023-11-24 at 20 59 05_42d473f8](https://github.com/Pavan2280/pes_binary_to_gray_tapeout/assets/131603225/3a61c240-cc9f-46b5-ab59-1e4966210bb7)![image](https://github.com/Pavan2280/pes_binary_to_gray_tapeout/assets/131603225/57231450-2f55-42c5-bb4c-a94f56194cb8)
+
